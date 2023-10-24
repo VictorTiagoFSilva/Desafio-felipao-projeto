@@ -25,4 +25,4 @@ if (xpHeroi <= 1000) {
 }
 
 // Exibindo a mensagem de acordo com o nível do herói
-console.log(nomeHeroi + " é do nível " + nivelHeroi);
+console.log( nomeHeroi + " é do nível " +  xpHeroi + " e tem Patente " + nivelHeroi ) ;
